@@ -1,0 +1,295 @@
+.container{
+height: 5000px;
+width: 1200px;
+background-color: rgb(243, 247, 247);
+}
+.container1{
+    height: 5000px;
+    width: 1200px;
+}
+
+.nav-bar{
+    height: 70px;
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    box-shadow: 1px 1px 5px ;
+}
+
+.left{
+    display: flex;
+    gap:30px;
+    font-size: 18px;
+    margin-right: 50px;
+}
+.cont{
+    border: 2px solid white;
+    height: 600px;
+    width: 1200px;
+    display: flex;
+   background-color: white;
+}
+
+.mobile{
+    border: 2px solid red;
+    height: 50px;
+    width: 50px;
+    display: flex;
+}
+button{
+    border: 1px solid black;
+  height: 50px;
+  width: 250px;
+  background-color: black;
+  color: white;
+  border-radius: 50px;
+ 
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
+.bills{
+    border: 2px solid rgb(82, 192, 235);
+    height: 400px;
+    width: 1200px;
+    background-color:  rgb(82, 192, 235);
+   
+}
+
+.image{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.book{
+    border: 2px solid  #0F4A8A;
+    height: 400px;
+    width: 1200px;
+    background-color:  #0F4A8A;
+}
+.box1{
+    border: 2px solid rgb(82, 192, 235);
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    background-color:rgb(82, 192, 235);
+    border-radius: 10px;
+}
+.box1:hover{
+    background-color:rgb(38, 165, 215); ;
+}
+.box2{
+    border: 2px solid rgb(82, 192, 235);
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    background-color:rgb(82, 192, 235);
+    border-radius: 10px;
+}
+.box2:hover{
+    background-color:rgb(38, 165, 215); ;
+}
+.box3{
+    border: 2px solid rgb(82, 192, 235);
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    background-color:rgb(82, 192, 235);
+    border-radius: 10px;
+}
+.box3:hover{
+    background-color:rgb(38, 165, 215); ;
+}
+.box4{
+    border: 2px solid rgb(82, 192, 235);
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    background-color:rgb(82, 192, 235);
+    border-radius: 10px;
+}
+.box4:hover{
+    background-color:rgb(38, 165, 215); ;
+}
+.box5{
+    border: 2px solid rgb(82, 192, 235);
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    background-color:rgb(82, 192, 235);
+    border-radius: 10px;
+}
+.box5:hover:hover{
+    background-color:rgb(38, 165, 215); ;
+}
+.box6{
+    border: 2px solid rgb(82, 192, 235);
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    background-color:rgb(82, 192, 235);
+    border-radius: 10px;
+}
+.box6:hover{
+    background-color:rgb(38, 165, 215); ;
+}
+.box7{
+    border: 2px solid rgb(82, 192, 235);
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    background-color:rgb(82, 192, 235);
+    border-radius: 10px;
+}
+.box7:hover{
+    background-color:rgb(38, 165, 215); ;
+}
+
+.buy{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.boxes1{
+    border: 2px solid #0F4A8A;
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.boxes1:hover{
+    background-color:#0c437e;
+}
+.boxes2{
+    border: 2px solid #0F4A8A;
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.boxes2:hover{
+    background-color:#0c437e;
+}
+.boxes3{
+    border: 2px solid #0F4A8A;
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.boxes3:hover{
+    background-color:#0c437e;
+}
+.boxes4{
+    border: 2px solid #0F4A8A;
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.boxes4:hover{
+    background-color:#0c437e;
+}
+.boxes5{
+    border: 2px solid #0F4A8A;
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.boxes5:hover{
+    background-color:#0c437e;
+}
+.boxes6{
+    border: 2px solid #0F4A8A;
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.boxes6:hover{
+    background-color:#0c437e;
+}
+.boxes7{
+    border: 2px solid #0F4A8A;
+    height: 180px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.boxes7:hover{
+    background-color:#0c437e;
+}
+
+.wallet{
+    border: 2px solid white;
+    height: 600px;
+    width: 1150px;
+    display: flex;
+   background-color: white;
+   margin-left: 30px;
+   margin-top: -50px;
+   border-radius: 20px;
+}
+
+.transfer{
+    border: 2px solid white;
+    height: 600px;
+    width: 1150px;
+    display: flex;
+   background-color: white;
+   margin-left: 30px;
+   margin-top: 50px;
+   border-radius: 20px;
+}
+
+.postpaid{
+    border: 2px solid white;
+    height: 600px;
+    width: 1150px;
+    display: flex;
+   background-color: white;
+   margin-left: 30px;
+   margin-top: 50px;
+   border-radius: 20px;
+}
+
+.postpaid button{
+    border: 1px solid #0c437e ;
+    height: 50px;
+    width: 170px;
+    background-color: #0c437e;
+}
+.postpaid button:hover{
+    color:white;
+    border : 1px solid  #00BAF2;
+    background-color: #00BAF2 ;
+}
+
+.paytm{
+    display: flex;
+}
+
+.hdfc{
+    border: 2px solid white;
+    height: 650px;
+    width: 560px; 
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+   
+}
+
+.sbi{
+    border: 2px solid white;
+    height: 650px;
+    width: 560px; 
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+   
+}
